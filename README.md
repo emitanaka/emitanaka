@@ -2,9 +2,9 @@
 
 My name is **Emi Tanaka** and I like coding 😄
 
-* 💬   I can speak English, Japanese and R fluently
-* 👩🏻‍💻 Pronouns: She/her
-* 📫 How to reach me: 
+* 💬 &nbsp;I can speak English, Japanese and R fluently
+* 👩🏻‍💻 &nbsp;Pronouns: She/her
+* 📫 &nbsp;How to reach me: 
   * For my github repos, filing an an issue in the corresponding github repo.
   * For R help or related, stackoverflow or some other public forum so other people can benefit from your question.
   * For others, email emi.tanaka@monash.edu.
