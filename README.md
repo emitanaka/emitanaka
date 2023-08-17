@@ -2,9 +2,6 @@
 
 My name is **Emi Tanaka** and I like coding 😄
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=emitanaka)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emitanaka&hide=html,jupyter%20notebook,JavaScript,SCSS,Less&layout=compact&langs_count=10)
-
 * 💬 &nbsp;I can speak English, Japanese and R (base + tidyverse) fluently
 * 🔭 &nbsp;I’m currently working on [The Grammar of Experimental Designs](https://emitanaka.org/edibble-book), statistical graphics research, among other things
 * 🌱 &nbsp;I’m looking to collaborate on selective breeding projects (particularly crops)
