@@ -21,5 +21,5 @@ My name is **Emi Tanaka** and I like coding 😄
    * Machine learning and artificial intelligence (including computer vision and large language models).
 * 📫 &nbsp;How to reach me: 
   * For my github repos, posting an an issue in the corresponding github repo.
-  * For R help or related, stackoverflow or some other public forum so other people can benefit from your question (please don't email me R questions!).
+  * For R help or related, stackoverflow or some other public forum so other people can benefit from your question (please don't email me R questions, although you are most welcomed to tag me in the public posts that you make).
   * For others, email emi.tanaka@anu.edu.au.
